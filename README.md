@@ -1,7 +1,7 @@
 # java-gradle
 
 [![Build Status](https://travis-ci.org/kealan/java-gradle.svg?branch=master)](https://travis-ci.org/kealan/java-gradle)
-[![Master Coverage Status](https://coveralls.io/repos/github/miracl/maas-sdk-java/badge.svg?branch=master)](https://coveralls.io/github/miracl/maas-sdk-java?branch=master)
+[![Coverage Status](https://coveralls.io/repos/github/kealan/java-gradle/badge.svg?branch=master)](https://coveralls.io/github/kealan/java-gradle?branch=master)
 
 Initialize library;
 
